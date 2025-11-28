@@ -18,6 +18,6 @@ The full training code will be uploaded **after the course evaluation period end
 
 Below is a recording of the trained PPO agent successfully completing the LunarLander task:
 
-**▶️ _(https://github.com/user-attachments/assets/6a696e0e-33f2-48fc-b123-8010cd164888)_**
+**▶️ [LunarLander-traine](https://github.com/user-attachments/assets/6a696e0e-33f2-48fc-b123-8010cd164888)**
 
 
